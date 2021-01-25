@@ -1,3 +1,6 @@
-# presentations
+# ByCycle Presentations
 
-This repository currently contains the presentation that Scott gave at SfN 2018 to give an overview of cycle-by-cycle analysis of neural oscillations.
+This repository contains materials for presentations about ByCycle.
+
+Included presentations:
+- SfN 2018: an overview of cycle-by-cycle analysis of neural oscillations, by Scott Cole
